@@ -5,6 +5,7 @@ GIT
     awesome_print (1.8.0)
     
 GEM
+  remote: https://rubygems.org/
   specs:
 
 PLATFORMS
